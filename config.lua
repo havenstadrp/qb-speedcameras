@@ -17,7 +17,7 @@ Config.ShowBlips                   = false
 Config.MergBlips                   = true
 
 Config.UseWebHook                  = true
-Config.Webhook                     = "https://discordapp.com/api/webhooks/978385181532651623/anbZHstFHaT_6JgfY5NMnRl94VNFIr2f7_sP0SKK-Jpreb5ayaFU1Q-_c-zns86zz9WX" --webhook 
+Config.Webhook                     = "" --webhook 
 
 Config.Radars = { -- +4
 	-- 30
@@ -56,6 +56,5 @@ Config.Radars = { -- +4
     {coords = vector4(1809.565, 6377.099, 43.457, 101.2), maxSpeed = 120.0, alertradarrange = 140 }, 
     {coords = vector4(1505.690, 874.2232, 81.075, 156.5), maxSpeed = 120.0, alertradarrange = 140 }, 
     {coords = vector4(-401.207, -486.356, 29.072, 117.2), maxSpeed = 120.0, alertradarrange = 140 },
-
 
 }
