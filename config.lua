@@ -17,7 +17,7 @@ Config.ShowBlips                   = false
 Config.MergBlips                   = true
 
 Config.UseWebHook                  = true
-Config.Webhook                     = "" --webhook 
+Config.Webhook                     = "https://discordapp.com/api/webhooks/978385181532651623/anbZHstFHaT_6JgfY5NMnRl94VNFIr2f7_sP0SKK-Jpreb5ayaFU1Q-_c-zns86zz9WX" --webhook 
 
 Config.Radars = { -- +4
 	-- 30
